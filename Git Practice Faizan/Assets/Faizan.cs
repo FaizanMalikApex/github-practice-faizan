@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Faizan : MonoBehaviour
 {
+
+
+    string fozolCommitKyLiye;
     // Start is called before the first frame update
     void Start()
     {
